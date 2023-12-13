@@ -1,0 +1,5 @@
+Product ID : 112
+Product Name : chips
+Product Quantity : 22
+Product price : 2.0
+Product total price : 44.0
